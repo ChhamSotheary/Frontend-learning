@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="km">
+  <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Lesson 17: Accessibility</title><script src="accessibility.js" defer></script></head>
+  <body>
+    <h1>Dialog និង keyboard focus</h1>
+    <button id="open-help" type="button">បើកជំនួយ</button>
+    <dialog id="help-dialog" aria-labelledby="dialog-title">
+      <h2 id="dialog-title">ជំនួយ</h2>
+      <p>ប្រើ Tab ដើម្បីផ្លាស់ទីរវាង control។</p>
+      <button id="close-help" type="button">បិទ</button>
+    </dialog>
+    <p id="status" role="status" aria-live="polite"></p>
+  </body>
+</html>

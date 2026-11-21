@@ -1,4 +1,8 @@
-# Complete CSS Course: Basic to Advanced
+# Frontend Learning: CSS, Bootstrap និង JavaScript
+
+## វគ្គរៀន JavaScript ពីមូលដ្ឋានដល់កម្រិតខ្ពស់
+
+វគ្គ JavaScript ជាភាសាខ្មែរ ពី Fundamentals ដល់ Browser APIs, asynchronous programming, Node.js, testing, security និង project capstone។ ចាប់ផ្តើមពី [ផែនទី និងមេរៀន JavaScript](javascript/README.md)។ វគ្គមាន ៣៦ មេរៀន និង Todo project សម្រាប់អនុវត្ត។
 
 វគ្គរៀន CSS ជាភាសាខ្មែរ ពីមូលដ្ឋានដល់កម្រិត Advanced/Expert។ មេរៀនប្រើ technical terms ជាភាសាអង់គ្លេស ហើយមានគោលបំណង, ពន្យល់, syntax, ឧទាហរណ៍, ការអនុវត្ត, លំហាត់ និងចម្លើយពិនិត្យខ្លួនឯង។
 
