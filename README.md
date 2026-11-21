@@ -1,5 +1,9 @@
 # Frontend Learning: CSS, Bootstrap, JavaScript និង React
 
+## វគ្គ Python និង Django ពីមូលដ្ឋានដល់កម្រិតខ្ពស់
+
+ចាប់ផ្តើមរៀន Python ជាមុន រួចយកចំណេះដឹងទៅបង្កើត Web app ជាមួយ Django។ មេរៀនពន្យល់ជាភាសាខ្មែរ មានគោលគំនិត កូដដែលអាចសាកល្បងបាន ជំហានអនុវត្ត កំហុសទូទៅ និងលំហាត់៖ [ផែនទីមេរៀន Python](python/README.md) · [ផែនទីមេរៀន Django](django/README.md)។
+
 វគ្គ React.js ជាភាសាខ្មែរ ពី component ដំបូងរហូតដល់ advanced patterns, data, routing, testing និង deployment៖ [បើកវគ្គ React](react/README.md)។
 
 ## វគ្គរៀន JavaScript ពីមូលដ្ឋានដល់កម្រិតខ្ពស់
