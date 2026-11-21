@@ -1,0 +1,151 @@
+:root {
+  font-family: system-ui, "Noto Sans Khmer", sans-serif;
+  color: #172033;
+  background: #f3f6fb;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+}
+
+button,
+input {
+  font: inherit;
+}
+
+button {
+  border: 0;
+  border-radius: 0.6rem;
+  background: #2459c4;
+  color: white;
+  padding: 0.7rem 1rem;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #17449f;
+}
+
+button:focus-visible,
+input:focus-visible {
+  outline: 3px solid #f0a202;
+  outline-offset: 2px;
+}
+
+input {
+  width: 100%;
+  margin: 0.35rem 0 1rem;
+  border: 1px solid #aab6ca;
+  border-radius: 0.5rem;
+  background: white;
+  color: #172033;
+  padding: 0.7rem;
+}
+
+.app-shell {
+  width: min(100% - 2rem, 52rem);
+  margin: 0 auto;
+  padding: 2rem 0 4rem;
+}
+
+.page-header {
+  margin-bottom: 1.5rem;
+}
+
+.page-header h1 {
+  margin: 0.25rem 0;
+  font-size: clamp(1.8rem, 5vw, 2.6rem);
+}
+
+.eyebrow {
+  color: #2459c4;
+  font-weight: 700;
+}
+
+.summary,
+.panel {
+  margin-block: 1rem;
+  border: 1px solid #d7dfeb;
+  border-radius: 1rem;
+  background: white;
+  padding: 1.25rem;
+}
+
+.summary {
+  display: flex;
+  align-items: baseline;
+  gap: 0.75rem;
+}
+
+.summary strong {
+  color: #2459c4;
+  font-size: 1.5rem;
+}
+
+.panel h2 {
+  margin-top: 0;
+}
+
+.panel form {
+  display: grid;
+  grid-template-columns: 1fr;
+}
+
+.status {
+  min-height: 1.5em;
+}
+
+.warning {
+  color: #8a4b00;
+}
+
+.course-list {
+  display: grid;
+  gap: 0.75rem;
+  padding: 0;
+  list-style: none;
+}
+
+.course-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  border: 1px solid #d7dfeb;
+  border-radius: 0.75rem;
+  padding: 1rem;
+}
+
+.course-card h3,
+.course-card p {
+  margin: 0.2rem 0;
+}
+
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.secondary {
+  background: #e8edf5;
+  color: #172033;
+}
+
+.secondary:hover {
+  background: #d5deeb;
+}
+
+@media (max-width: 38rem) {
+  .course-card {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+}

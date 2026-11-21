@@ -1,4 +1,6 @@
-# Frontend Learning: CSS, Bootstrap និង JavaScript
+# Frontend Learning: CSS, Bootstrap, JavaScript និង React
+
+វគ្គ React.js ជាភាសាខ្មែរ ពី component ដំបូងរហូតដល់ advanced patterns, data, routing, testing និង deployment៖ [បើកវគ្គ React](react/README.md)។
 
 ## វគ្គរៀន JavaScript ពីមូលដ្ឋានដល់កម្រិតខ្ពស់
 
