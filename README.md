@@ -64,6 +64,10 @@
 
 **Final Project៖** [Admin Dashboard](projects/project-04-admin-dashboard.md)
 
+## មេរៀន CSS បន្ថែមពី PDF
+
+មេរៀនបន្ថែមជាភាសាខ្មែរ រៀបចំពីឯកសារ CSS របស់គ្រូ និងតារាង CSS Properties ដោយពន្យល់ជំហានៗ និងបន្ថែមកូដអនុវត្ត៖ [ចូលមេរៀន CSS ពី PDF](css-from-pdfs/README.md)។
+
 ## គម្រោងអនុវត្តទាំងអស់
 
 - [Project 1៖ Profile Card](projects/project-01-profile-card.md)
